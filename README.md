@@ -26,7 +26,7 @@ Now you are going to make a twitter app in this url: [https://apps.twitter.com/a
 # How to repeat the bot action chronologically
 Type `sudo crontab -e`
 
-To repeat every hour, paste this line:  `*/60 * * * * python /home/pi/FanthomStudios/TwitterTemp4Pi.py` 
+To repeat every hour, paste this line:  `*/60 * * * * python /home/pi/MikelCalvo/TwitterTemp4Pi.py` 
 Remember to change the directory to yours.
 
 ***
