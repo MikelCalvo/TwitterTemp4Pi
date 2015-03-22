@@ -1,3 +1,4 @@
+Remember to read this before starting with the bot.
 # Installing Twython
  First you need to paste the following command, one at a time.
 `sudo apt-get update`
